@@ -1,0 +1,9 @@
+venv/
+dataset/
+tmp.txt
+*.png
+*.jpg
+*.mp4
+*.MOV
+runs/
+__pycache__/
