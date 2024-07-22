@@ -117,7 +117,7 @@ def get_codec(cap):
    return codec
 
 
-# 動画を画像に変換
+# Change from video to frame images
 def extract_frames(video_path, frames_folder, output_video_path, fps, bboxlist_time_series):
    cap = cv2.VideoCapture(video_path)
    codec = get_codec(cap)
