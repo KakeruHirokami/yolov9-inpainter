@@ -1,8 +1,8 @@
 # Overview
-This repository provides functionality to inpaint specific objects in video using a YOLOv9 dataset obtained from Roboflow Universe.
+This repository provides functionality to inpaint specific objects in video using a YOLOv9 dataset obtained from Roboflow Universe.  
 
-|![sample](sample.gif "sample")|
-Ex. Inpaint Number plate
+![sample](sample.gif "sample")  
+Ex. Inpaint Number plate  
 
 # Requirements
 This repository requires the following tools:
